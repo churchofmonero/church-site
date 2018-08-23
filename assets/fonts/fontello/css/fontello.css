@@ -25,6 +25,8 @@
   font-style: normal;
   font-weight: normal;
   speak: none;
+
+  color: white;
  
   display: inline-block;
   text-decoration: inherit;
@@ -45,7 +47,7 @@
   margin-left: .2em;
  
   /* you can be more comfortable with increased icons size */
-  /* font-size: 120%; */
+  font-size: 120%;
  
   /* Font smoothing. That was taken from TWBS */
   -webkit-font-smoothing: antialiased;
